@@ -1,0 +1,16 @@
+streamlit>=1.40
+pandas>=2.0
+altair>=5.0
+scikit-learn>=1.4
+pypdf>=4.0
+pypdfium2>=4.30
+pytesseract>=0.3.10
+Pillow>=10.1
+python-dotenv>=1.0
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+httpx>=0.27
+reportlab>=4.0
+pytest>=8.0
+# optional: pip install anthropic   (only if you set ANTHROPIC_API_KEY)
